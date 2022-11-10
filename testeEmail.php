@@ -1,0 +1,181 @@
+<?php
+    use PHPMailer\PHPMailer\PHPMailer;
+    require 'vendor/autoload.php';
+
+    $mail = new PHPMailer;
+        $mail->isSMTP();
+        $mail->SMTPDebug = 2;
+        $mail->Host = 'smtp.hostinger.com';
+        $mail->Port = 465;
+        $mail->SMTPAuth = true;
+        $mail->Username = 'ump3ipc@congressocoramdeo.com';
+        $mail->Password = 'Cor@mDeo123';
+ 
+        $mail->setFrom('ump3ipc@congressocoramdeo.com', 'Congresso CoramDeo');
+        $mail->addReplyTo('ump3ipc@congressocoramdeo.com', 'Congresso CoramDeo');
+        $mail->addAddress($email, $nome);
+        $mail->Subject = 'Incrição Congresso CoramDeo 2ª edição';
+        $mail->msgHTML(file_get_contents('emailMarketing.html'), __DIR__);
+        //$mail->msgHTML(corpoEmail($nome));
+        $mail->Body = 'This is a plain text message body';
+        //$mail->addAttachment('test.txt');
+        
+        if (!$mail->send()) {
+            echo 'Mailer Error: ' . $mail->ErrorInfo;
+        } else {
+            echo 'The email message was sent.';
+        }
+
+    function enviarEmail($nome, $email){
+        //echo corpoEmail($nome);
+        
+    }
+
+    function corpoEmail($nome){
+        $mensagem ='<html>';
+        $mensagem.='<head>';
+        $mensagem.='<title>email</title>';
+        $mensagem.='<meta http-equiv="Content-Type" content="text/html; charset=utf-8">';
+        $mensagem.='<style>';
+        $mensagem.="h4, h5{margin: 10;padding: 5;padding-bottom: 20px;line-height: 1.6;font-family: 'Helvetica', 'Arial', sans-serif;color: #0B7955;}";
+        $mensagem.='</style>';
+        $mensagem.='</head>';
+        $mensagem.='<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">';
+        $mensagem.='<div id="centro" align="center">';
+        $mensagem.='<table id="Tabela_01" width="721" height="1201" border="0" cellpadding="0" cellspacing="0">';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9">';
+        $mensagem.='<a href="https://congressocoramdeo.com/">';
+        $mensagem.='<img src="images/logo1.png" width="720" height="162" style="display: block" border="0" alt=""></a></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="162" border="0" alt="" style="display: block"></td>';				
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="1" alt="" border="0" style="display: block"></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9" >';
+        $mensagem.='<br>';
+        $mensagem.='<h4><b>Olá,'.$nome.'</b></h4>';
+        $mensagem.='<h5>Recebemos a sua inscrição, ficamos honrados com a sua preseça. Aproveite e chame mais alguém para aprender mais sobre produtividade.Logo abaixo estão as informações dos preletores que estarão conosco nesses três dias abençoados, esperamos vocês lá!!!</h5>';
+        $mensagem.='<br>';
+        $mensagem.='<br>';
+        $mensagem.='<div id="centro" align="center">';
+        $mensagem.='<iframe width="500" height="353" src="https://www.youtube.com/embed/NFUU1ZHqAwY" title="Congresso Coram Deo - Allen Porto" style="display: block" frameborder="0" ';
+        $mensagem.='        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
+        $mensagem.='                </div>';
+        $mensagem.='</td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9">';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="175" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9">';
+        $mensagem.='<a href="https://www.instagram.com/revfabiohenrique/">';
+        $mensagem.='<img src="images/prfabio.gif" width="720" height="118" border="0" alt=""></a></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="118" alt="" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9">';
+        $mensagem.='<a href="https://www.instagram.com/geanejersey/">';
+        $mensagem.='<img src="images/geane.gif" width="720" height="106" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="106" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9">';
+        $mensagem.='<a href="https://www.instagram.com/allenporto/">';
+        $mensagem.='<img src="images/allen.gif" width="720" height="122" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="122" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="9">';
+        $mensagem.='<img src="images/emailMarketing_07.gif" width="720" height="42" alt="" style="display: block"></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="42" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="6">';
+        $mensagem.='<img src="images/emailMarketing_08.gif" width="238" height="8" alt="" style="display: block"></td>';
+        $mensagem.='<td rowspan="2">';
+        $mensagem.='<a href="https://congressocoramdeo.com/">';
+        $mensagem.='<img src="images/site-congresso.gif" width="231" height="21" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td colspan="2" rowspan="2">';
+        $mensagem.='<img src="images/emailMarketing_10.gif" width="251" height="21" alt="" style="display: block"></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="8" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td rowspan="4">';
+        $mensagem.='<img src="images/emailMarketing_11.gif" width="21" height="66" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td rowspan="2">';
+        $mensagem.='<a href="https://www.instagram.com/3ipceilandia_/">';
+        $mensagem.='<img src="images/insta3ipc.gif" width="32" height="30" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td rowspan="2">';
+        $mensagem.='<a href="https://www.facebook.com/3ipceilandia">';
+        $mensagem.='<img src="images/face3ipc.gif" width="36" height="30" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td rowspan="2">';
+        $mensagem.='<a href="https://www.youtube.com/c/3IPCeilandia_">';
+        $mensagem.='<img src="images/youtube3ipc.gif" width="31" height="30" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td colspan="2">';
+        $mensagem.='<img src="images/emailMarketing_15.gif" width="118" height="13" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="13" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td rowspan="3">';
+        $mensagem.='<img src="images/emailMarketing_16.gif" width="98" height="53" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td colspan="3" rowspan="2">';
+        $mensagem.='<a href="https://goo.gl/maps/xu3y8ULFH33hek3k6">';
+        $mensagem.='<img src="images/endereco.png" width="279" height="39" border="0" alt="" style="display: block"></a></td>';
+        $mensagem.='<td rowspan="3">';
+        $mensagem.='<img src="images/emailMarketing_18.gif" width="223" height="53" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="17" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="3" rowspan="2">';
+        $mensagem.='<img src="images/emailMarketing_19.gif" width="99" height="36" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="22" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td colspan="3">';
+        $mensagem.='<img src="images/emailMarketing_20.gif" width="279" height="14" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="1" height="14" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='</tr>';
+        $mensagem.='<tr>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="21" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="32" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="36" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="31" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="98" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="20" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="231" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="28" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td>';
+        $mensagem.='<img src="images/spacer.gif" width="223" height="1" alt="" style="display: block" border="0" ></td>';
+        $mensagem.='<td></td>';
+        $mensagem.='</tr>';
+        $mensagem.='</table>';
+        $mensagem.='</div>';
+        $mensagem.='</body>';
+        $mensagem.='</html>';    
+
+        return $mensagem;
+    }
+
+?>

@@ -1,0 +1,1099 @@
+2022-11-09T02:37:54+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T02:42:17+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T02:43:24+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:37:02+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:37:42+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:43:00+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:46:47+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:46:55+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:47:42+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:53:33+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:54:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T03:57:46+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:02:52+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:02:56+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:03:38+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:03:58+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:04:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:04:33+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:42:03+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:42:44+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T04:57:18+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:01:27+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:02:18+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:07:26+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:43:28+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:43:52+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:43:52+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:44:18+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T05:48:19+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T06:12:41+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T06:13:35+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T07:16:56+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T07:17:23+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T07:17:29+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T08:42:08+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T08:42:58+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T08:43:05+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T08:43:08+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T09:22:22+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T09:22:54+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:09:06+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:09:06+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:09:06+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:09:28+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:09:28+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:10:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:10:11+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:27:11+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:27:23+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T10:27:23+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T11:02:07+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T11:02:38+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T11:03:20+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T11:31:49+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T11:33:16+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:17:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:17:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:17:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:17:54+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:17:55+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:18:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:18:38+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:38:20+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:38:22+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T15:38:46+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T16:12:47+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T16:13:22+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T16:13:55+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:06:43+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:07:01+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:07:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:42:45+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:42:45+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:42:59+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:43:09+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:43:14+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:43:53+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T17:48:10+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:11:01+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:11:02+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:11:02+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:11:25+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:11:26+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:12:00+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:12:07+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:27:56+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:28:29+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:31:50+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:32:03+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:33:21+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:33:30+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:33:39+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:33:40+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:33:46+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:34:07+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:34:13+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:34:31+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:42:19+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:42:25+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:42:42+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:42:46+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:42:53+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:43:01+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T18:43:10+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:06:59+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:07:33+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:08:28+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:17:28+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:17:28+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:17:29+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:17:29+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:17:42+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:21:52+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:48:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:48:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:48:05+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:48:05+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:48:27+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:48:44+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:49:01+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:50:03+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:53:02+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:53:42+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T19:53:52+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:29:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:29:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:29:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:29:32+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:30:09+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:30:09+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:32:02+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:32:29+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:33:02+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:33:03+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:37:47+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:38:31+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:38:34+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:39:04+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:39:12+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:43:00+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:43:09+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T20:43:24+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T21:14:41+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T22:17:43+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T22:17:43+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T22:18:14+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:07:50+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:08:11+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:09:08+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:12:06+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:13:30+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:13:50+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:42:51+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:43:05+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:43:17+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:43:58+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+
+2022-11-09T23:44:39+00:00 CRITICAL Uncaught Exception in /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php:124
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php(75): MercadoPago\Entity::read()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/notification.php(19): MercadoPago\Entity::find_by_id()
+#2 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/vendor/mercadopago/dx-php/src/MercadoPago/Entity.php, na linha 124
+

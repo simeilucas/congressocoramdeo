@@ -1,0 +1,117 @@
+2022-10-20T14:48:12+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/create_autologin_63515faba1743.php(33): require_once('/home/u36751185...')
+#5 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:28+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:34+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:47+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:48+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:49+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:50+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:48:51+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-blog-header.php(13): require_once('/home/u36751185...')
+#5 /home/u367511854/domains/congressocoramdeo.com/public_html/index.php(17): require('/home/u36751185...')
+#6 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:55:07+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-cron.php(44): require_once('/home/u36751185...')
+#5 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:56:07+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-cron.php(44): require_once('/home/u36751185...')
+#5 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
+2022-10-20T14:56:38+00:00 CRITICAL Uncaught Error: Failed opening required 'vendor/autoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php:3
+Stack trace:
+#0 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-content/themes/congressocoramdeo/functions.php(5): include_once()
+#1 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-settings.php(566): include('/home/u36751185...')
+#2 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-config.php(102): require_once('/home/u36751185...')
+#3 /home/u367511854/domains/congressocoramdeo.com/public_html/wp-load.php(50): require_once('/home/u36751185...')
+#4 /home/u367511854/domains/congressocoramdeo.com/public_html/create_autologin_635161a642ea4.php(33): require_once('/home/u36751185...')
+#5 {main}
+  thrown, em /home/u367511854/domains/congressocoramdeo.com/public_html/testeEmail.php, na linha 3
+
